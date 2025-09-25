@@ -1,22 +1,25 @@
+👋
+
 <div align="center">
 
 # مرحباً بك في عالم البرمجة! 🌟 | Welcome to the World of Programming!
 
-![Coding Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThsM2RpY3M4dWdlZnh2MGQzZnVubmw4bjIzazF4NjJjdjBjc3RjMiZlcD12c2FuaW0/gFuKsxrZnMmkh63rLB/giphy.gif)
+
+</div>
 
 ## 🎯 | عنّي About Me
 
-**🇦🇪 العربية:**
-مرحباً! أنا تومي (TOMMY)، مطور شغوف بالتقنيات الحديثة والذكاء الاصطناعي. أحب تطوير الحلول المبتكرة وتعلم التقنيات الجديدة كل يوم.
+**🇦🇪 العربية:** مرحباً! أنا تومي (TOMMY)، مطور شغوف بالتقنيات الحديثة والذكاء الاصطناعي. أحب تطوير الحلول المبتكرة وتعلم التقنيات الجديدة كل يوم.
 
-**🇺🇸 English:**
-Hello! I'm TOMMY, a passionate developer focused on modern technologies and AI. I love creating innovative solutions and learning new technologies every day.
+**🇺🇸 English:** Hello! I'm TOMMY, a passionate developer focused on modern technologies and AI. I love creating innovative solutions and learning new technologies every day.
 
 ---
 
 ## 🚀 | المشاريع والتقنيات Current Projects & Technologies
 
 ### 🔭 المشاريع الحالية | Current Projects:
+
 - 🎮 **RoK Tracker & RoKStat** - أدوات إحصائيات للعبة Rise of Kingdoms
 - 🤖 **AI & ML Projects** - مشاريع الذكاء الاصطناعي والتعلم الآلي  
 - 🐍 **Python Mini Tools** - أدوات صغيرة ومفيدة بلغة Python
@@ -38,7 +41,6 @@ Hello! I'm TOMMY, a passionate developer focused on modern technologies and AI. 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soul-19129&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-19129&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soul-19129&theme=radical&hide_border=true)
@@ -50,77 +52,62 @@ Hello! I'm TOMMY, a passionate developer focused on modern technologies and AI. 
 ## 🌱 | التعلم والنمو Learning & Growth
 
 **🎓 حالياً أتعلم | Currently Learning:**
-- 🤖 Machine Learning & Deep Learning
-- ☁️ Cloud Computing (AWS, Azure)
-- 📱 Mobile App Development
-- 🔗 Blockchain Technology
+- • 🤖 Machine Learning & Deep Learning
+- • ☁️ Cloud Computing (AWS, Azure)
+- • 📱 Mobile App Development
+- • 🔗 Blockchain Technology
 
 **💡 أبحث عن التعاون في | Looking to Collaborate On:**
-- Open Source Projects
-- AI/ML Research
-- Web Development
-- Game Development Tools
+- • Open Source Projects
+- • AI/ML Research
+- • Web Development
+- • Game Development Tools
 
 ---
 
 ## 🎮 | المشاريع المميزة Featured Repositories
 
-<div align="center">
-
 [![RoK Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=RokTracker&theme=radical&hide_border=true)](https://github.com/Soul-19129/RokTracker)
-
-[![Python Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=Soul191-Python-MiniToolsSoul191-Python-MiniToolsSoul191-PythonToolkitpython-mini-projects&theme=radical&hide_border=true)](https://github.com/Soul-19129/Soul191-Python-MiniToolsSoul191-Python-MiniToolsSoul191-PythonToolkitpython-mini-projects)
-
-</div>
+[![Python Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=Soul191-Python-MiniTools&theme=radical&hide_border=true)](https://github.com/Soul-19129/Soul191-Python-MiniTools)
 
 ---
 
 ## 📫 | التواصل معي Get In Touch
 
-<div align="center">
-
 **🌐 دعنا نتواصل | Let's Connect:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soul-19129)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Soul-19129)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Soul-19129)
 
 ---
 
 ## ⚡ | حقائق ممتعة Fun Facts
 
-- 🎯 بدأت رحلتي في البرمجة منذ أسبوعين فقط! | Started my coding journey just 2 weeks ago!
-- 🌟 أحب تعلم تقنيات جديدة كل يوم | Love learning new technologies every day
-- 🎮 مهتم بتطوير أدوات الألعاب | Passionate about game development tools
-- 🤖 متحمس للذكاء الاصطناعي | Excited about AI and machine learning
-- 📚 أؤمن بالتعلم المستمر | Believe in continuous learning
+- • 🎯 بدأت رحلتي في البرمجة منذ أسبوعين فقط! | Started my coding journey just 2 weeks ago!
+- • 🌟 أحب تعلم تقنيات جديدة كل يوم | Love learning new technologies every day
+- • 🎮 مهتم بتطوير أدوات الألعاب | Passionate about game development tools
+- • 🤖 متحمس للذكاء الاصطناعي | Excited about AI and machine learning
+- • 📚 أؤمن بالتعلم المستمر | Believe in continuous learning
 
 ---
 
 ## 🏆 | الإنجازات Achievements
 
-- 🎉 أول مستودع على GitHub | First GitHub Repository ✅
-- 🔀 أول Pull Request | First Pull Request ✅  
-- 🌟 انضممت لمجتمع GitHub | Joined GitHub Community ✅
-- 📈 28 مساهمة في العام الماضي | 28 Contributions this year
+- • 🎉 أول مستودع على GitHub | First GitHub Repository ✅
+- • 🔀 أول Pull Request | First Pull Request ✅
+- • 🌟 انضممت لمجتمع GitHub | Joined GitHub Community ✅
+- • 📈 32 مساهمة في العام الماضي | 32 Contributions this year
 
 ---
 
-<div align="center">
-
 ### 💫 "الرحلة ألف ميل تبدأ بخطوة واحدة" | "A journey of a thousand miles begins with a single step"
 
-![Visitor Count](https://profile-counter.glitch.me/Soul-19129/count.svg)
+<div align="center">
 
-**شكراً لزيارة صفحتي! | Thanks for visiting my profile!** 🙏
+![visitors](https://shields.io/badge/dynamic/json?color=f7ca18&label=visitors&query=value&url=https://api.countapi.xyz/hit/Soul-19129.github.io/visits)
 
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+**شكراً لزيارة صفحتي! | Thanks for visiting my profile! 🙏**
 
 </div>
-
-<!--
-**Soul-19129/Soul-19129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
