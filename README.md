@@ -20,6 +20,7 @@
 <td valign="top" width="50%">
 
 ### 🇦🇪 العربية
+
 - 👋 مرحباً! أنا **تومي (TOMMY)**
 - 💻 مطور شغوف بالتقنيات الحديثة
 - 🤖 متخصص في الذكاء الاصطناعي
@@ -31,6 +32,7 @@
 <td valign="top" width="50%">
 
 ### 🇺🇸 English
+
 - 👋 Hello! I'm **TOMMY**
 - 💻 Passionate developer focused on modern tech
 - 🤖 AI & Machine Learning enthusiast
@@ -57,40 +59,32 @@
 
 ### 💻 التقنيات المستخدمة | Tech Stack
 
-<div align="center">
-
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 إحصائيات GitHub | GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soul-19129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-19129&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-19129&theme=tokyonight" alt="Soul-19129" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soul-19129&theme=tokyo-night" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Soul-19129&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-19129&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-19129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soul-19129&theme=react-dark" />
 </div>
 
 ---
@@ -99,9 +93,10 @@
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
 ### 🎓 حالياً أتعلم | Currently Learning
+
 - 🤖 Machine Learning & Deep Learning
 - ☁️ Cloud Computing (AWS, Azure)
 - 📱 Mobile App Development
@@ -110,9 +105,10 @@
 - 🎯 DevOps Practices
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
 ### 💡 أبحث عن التعاون | Looking to Collaborate
+
 - 🌐 Open Source Projects
 - 🤖 AI/ML Research
 - 🎮 Game Development Tools
@@ -128,45 +124,21 @@
 
 ## 🎮 المشاريع المميزة | Featured Repositories
 
-<div align="center">
-
-[![RoK Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=RokTracker&theme=tokyonight)](https://github.com/Soul-19129/RokTracker)
-[![Python Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=python-mini-projects&theme=tokyonight)](https://github.com/Soul-19129/python-mini-projects)
-
-</div>
+[![RoK Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=RokTracker&theme=radical)](https://github.com/Soul-19129/RokTracker)
+[![Python Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Soul-19129&repo=python-mini-projects&theme=radical)](https://github.com/Soul-19129/python-mini-projects)
 
 ---
 
 ## 📫 التواصل معي | Get In Touch
 
-<div align="center">
-
 ### 🌐 دعنا نتواصل | Let's Connect
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Soul-19129">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td align="center">
-<a href="mailto:tommy.dev.contact@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</td>
-<td align="center">
-<a href="https://linkedin.com/in/tommy-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center">
-<a href="https://twitter.com/tommy_dev_19">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soul-19129)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tommy-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tommy_dev_19)
 
 </div>
 
@@ -189,28 +161,53 @@
 
 ---
 
-## 🏆 الإنجازات | Achievements
+# 🏆 الإنجازات | Achievements
 
 <div align="center">
 
-### 🎖️ شارات GitHub | GitHub Badges
+## 📊 GitHub Badges | شارات GitHub
 
-![GitHub followers](https://img.shields.io/github/followers/Soul-19129?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Soul-19129?style=social)
-![Years Badge](https://badges.pufler.dev/years/Soul-19129)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/Soul-19129)
-
-### ✅ قائمة الإنجازات | Achievement List
-
-- [x] 🎉 أول مستودع على GitHub | First GitHub Repository
-- [x] 🔀 أول Pull Request | First Pull Request
-- [x] 🌟 انضممت لمجتمع GitHub | Joined GitHub Community
-- [x] 📈 32 مساهمة في العام الماضي | 32 Contributions this year
-- [ ] 🚀 100 مساهمة | 100 Contributions
-- [ ] ⭐ أول نجمة | First Star
-- [ ] 🤝 أول تعاون | First Collaboration
+![Followers](https://img.shields.io/github/followers/Soul-19129?style=for-the-badge&logo=github&color=0366d6)
+![Stars](https://img.shields.io/github/stars/Soul-19129?style=for-the-badge&logo=github&color=yellow)
+![Commits](https://img.shields.io/badge/commits-32-green?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Soul-19129&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
 </div>
+
+---
+
+## 🎖️ Achievement List | قائمة الإنجازات
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🇦🇪 العربية
+
+• ✅ 🎉 **أول مستودع على GitHub**
+• ✅ 🔀 **أول Pull Request** 
+• ✅ 🌟 **انضممت لمجتمع GitHub**
+• ✅ 📈 **32 مساهمة هذا العام**
+• ⏳ 🚀 **100 مساهمة** (قريباً)
+• ⏳ ⭐ **أول نجمة** (قريباً)
+• ⏳ 🤝 **أول تعاون** (قريباً)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇺🇸 English
+
+• ✅ 🎉 **First GitHub Repository**
+• ✅ 🔀 **First Pull Request**
+• ✅ 🌟 **Joined GitHub Community**
+• ✅ 📈 **32 Contributions this year**
+• ⏳ 🚀 **100 Contributions** (Coming Soon)
+• ⏳ ⭐ **First Star** (Coming Soon)
+• ⏳ 🤝 **First Collaboration** (Coming Soon)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -218,11 +215,10 @@
 
 ### 💫 *"الرحلة ألف ميل تبدأ بخطوة واحدة"* | *"A journey of a thousand miles begins with a single step"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Soul-19129&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Soul-19129.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Soul-19129?tab=followers)
+[![Follow](https://img.shields.io/github/followers/Soul-19129.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Soul-19129?tab=followers)
 
 **شكراً لزيارة صفحتي! | Thanks for visiting my profile!** 🙏
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </div>
